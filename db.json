@@ -9,7 +9,7 @@
   ],
   "destinations": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Goa",
       "country": "India",
       "category": "Beach",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Manali",
       "country": "India",
       "category": "Hill Station",
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Hyderabad",
       "country": "India",
       "category": "City",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Kerala",
       "country": "India",
       "category": "Nature",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Ooty",
       "country": "India",
       "category": "Hill Station",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Leh Ladakh",
       "country": "India",
       "category": "Adventure",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Agra",
       "country": "India",
       "category": "Historical",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Andaman",
       "country": "India",
       "category": "Island",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Darjeeling",
       "country": "India",
       "category": "Hill Station",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Rishikesh",
       "country": "India",
       "category": "Spiritual",
