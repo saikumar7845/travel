@@ -1,0 +1,21 @@
+.filters{
+  display:flex;
+  gap:15px;
+  flex-wrap:wrap;
+  margin-bottom:30px;
+}
+
+.filters input,
+.filters select{
+  padding:12px;
+  border:1px solid #ddd;
+  border-radius:10px;
+  min-width:200px;
+  font-size:16px;
+  outline:none;
+}
+
+.filters input:focus,
+.filters select:focus{
+  border-color:#0d6efd;
+}
